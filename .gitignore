@@ -1,0 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#Python:
+*.pyc
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#other files
+*.bak
+*.txt.bak
+.idea
+*.sqlite3
